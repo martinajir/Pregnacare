@@ -14,15 +14,16 @@ const MessagingResponse = require('twilio').twiml.MessagingResponse;
 // Initialise the express app
 const app = express()
 
-// Middleware
-// app.use(bodyParser.urlencoded({ extended: false }))
-// app.use(bodyParser.json());
+// Middleware - bodyParser for parsing SMS
 app.use(bodyParser());
 
 // POST request to {server_name}/sms to return a message
 app.post('/sms', (req, res) => {
-
+	
+	// Logs the message and it's properties in the console
 	console.log(req.body);
+
+	// Create conditions for 
 
 	// Create a response
 	const twiml = new MessagingResponse();
