@@ -1,15 +1,14 @@
-# hatch-template-project - replace with your project name
+# Prenacare
 
 This template project should be forked by hatch teams.
-
 This project was developed during [hatchlondon 2017](http://hatchlondon.io).
 
 ## Todo
 
 Tick items off as you go along.
 
-- [ ] 1. [Sign up](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a free GitHub account
-- [ ] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
+- [x] 1. [Sign up](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a free GitHub account
+- [x] 2. [Fork](https://help.github.com/articles/fork-a-repo/) this project
 - [ ] 3. Add your forked repo from `step 2` to this [project](https://github.com/SheCanCodeHQ/hatchlondon-2017-projects) as a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 ### Project setup
@@ -24,10 +23,10 @@ From now on it is in your **Forked** repo
 
 ### README changes (this file)
 
-- [ ] 5. Change the name at the top of this file on `line 1`
-- [ ] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
-- [ ] 7. Fill in your team members in the **TEAM** section below
-- [ ] 8. Fill in the **PROBLEM AND SOLUTION** section below
+- [x] 5. Change the name at the top of this file on `line 1`
+- [x] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
+- [x] 7. Fill in your team members in the **TEAM** section below
+- [x] 8. Fill in the **PROBLEM AND SOLUTION** section below
 - [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
 - [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
 
@@ -35,16 +34,13 @@ From now on it is in your **Forked** repo
 
 ## Team
 
-Include all members of your team for the hack here:
-
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
+* Ryan Maugin [github](https://github.com/RyanMaugin)
+* Karan Dahele [github](https://github.com/karandahele)
+* Martina Jireckova [github](https://github.com/martinajir)
 
 ## Problem and Solution
 
-Describe here which problem you are working on during the event, and what your solution is, succinctly.
+The access of healthcare for pregnant woman in the rural areas of the world to make pregnanices safer and easier in the developing world through ongoing virtual support. 
 
 ## Install and run this project
 
