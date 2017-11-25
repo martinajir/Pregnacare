@@ -1,0 +1,79 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#mainjumbotron{
+    height:30%;
+    //background-color: #f7f7f7;
+    background-image: url("/img/preg-stock-intro.jpeg");
+    background-repeat: no-repeat;
+    
+}
+
+.navbar-fixed-top{
+     background-color:#2aabd2;
+}
+
+.navbar-fixed-top a{
+    color:#fff;
+    text-decoration:none;
+}
+
+.scroll-down-link{
+    margin-left: 45%;
+}
+
+.fa{
+    margin-top:10%;
+}
+
+
+.one-of-three{
+    width: 33%;
+    border-right: 1px solid #000;
+    text-align: center;
+    padding-top:0px;
+}
+
+.last-of-three{
+    width: 33%;
+    float: right;
+    text-align: center;
+}
+
+.important-points{
+    font-size:14pt;
+    margin-top: 15px;
+    padding: 40px;
+}
+
+.main-content{
+    padding-top:20px;
+}
+
+.col-lg-1{
+    //background-color: pink;
+    height: 400px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.logo-image{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.intro-text{
+    margin-top: 6%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
