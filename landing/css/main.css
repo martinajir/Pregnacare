@@ -7,7 +7,7 @@
 #mainjumbotron{
     height:30%;
     //background-color: #f7f7f7;
-    background-image: url("/img/preg-stock-intro.jpeg");
+    background-image: url("../img/preg-stock-intro.jpg");
     background-repeat: no-repeat;
     
 }
@@ -58,6 +58,7 @@
     height: 400px;
     width: 100%;
     margin-top: 50px;
+    font-size: 14pt;
 }
 
 .logo-image{
@@ -66,8 +67,15 @@
 }
 
 .intro-text{
-    margin-top: 6%;
+    //margin-top: 6%;
     text-align: center;
+    //color: #2aabd2;
+    color: #000;
+}
+
+.overlay{
+    background-color: rgba(255,255,255, 0.4);
+    padding: 20px;
 }
 
 
