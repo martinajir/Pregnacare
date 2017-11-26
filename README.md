@@ -1,4 +1,4 @@
-[auntee-logo](https://github.com/RyanMaugin/Pregnacare/blob/master/landing-page/assets/Auntee-900x300.png)
+![auntee-logo](https://github.com/RyanMaugin/Pregnacare/blob/master/landing-page/assets/Auntee-900x300.png)
 # Auntee
 
 Auntee is a friendly chatbot aiming to improve the way pregnant women in the developing world interact with healthcare professionals. Auntee first asks for some basic information about the woman including her age, what week of pregnancy she is in and whether she is at risk for any genetic diseases running in her family. Based on that information, Auntee regularly checks in with the woman to ask her about any problems/symptoms she may experience and reminds her to go for regular bloodchecks and ultrasounds. Auntee also gives tips on proper diet and vitamin supplements to ensure women get the healthcare they need during both the early and later stages of pregnancy.
