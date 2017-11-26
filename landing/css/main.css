@@ -3,6 +3,30 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+    font-size:14pt;
+}
+
+.nav, .navbar-nav{
+    float:right;
+}
+.nav>li>a:hover{
+    text-decoration:none;
+    background-color: #2aabd2;
+}
+
+.column-left{
+    float: left;
+    width:45%; 
+    margin-bottom:40px;
+}
+
+
+.column-right{
+    float:right;
+    width: 45%;
+    margin-top:40px;
+}
 
 #mainjumbotron{
     height:30%;
@@ -10,6 +34,14 @@
     background-image: url("../img/preg-stock-intro.jpg");
     background-repeat: no-repeat;
     
+}
+
+#main-content:before{
+    margin-top: -5px;
+    display:block;
+    content:" ";
+    height:45px;
+    visibility:hidden;
 }
 
 .navbar-fixed-top{
