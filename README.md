@@ -21,3 +21,4 @@ The access to healthcare for pregnant women in rural areas of the developing wor
 Check out our website for more information and visuals
 
 [Project website](http://auntee.infinityfreeapp.com/)
+[Pitch presentation](https://docs.google.com/presentation/d/1Z1MGEbiJuwp3JY9qfLOiDuLttkee1yV5Tn-eEMVEZq0/edit?usp=sharing)
